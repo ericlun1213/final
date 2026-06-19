@@ -7,7 +7,7 @@
 
 ## Project Repository
 
-https://github.com/[Your-GitHub-Username]/[Your-Repository-Name]
+https://github.com/ericlun1213/final
 
 ## Presentation Video
 
